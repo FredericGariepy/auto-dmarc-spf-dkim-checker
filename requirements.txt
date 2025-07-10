@@ -1,0 +1,1 @@
+dnspython @ git+https://github.com/rthalley/dnspython.git@99878bf292c86ca7d42b5341cb480f0833b83ba3
